@@ -256,8 +256,8 @@ width: 10.0em;
 
 #search input.submit
 {
-background: #939B00 url('images/buttonbg.gif') repeat-x;
-border: solid 1px #5F6800;
+background: #4351cc url('images/buttonbg.gif') repeat-x;
+border: solid 1px #4351cc;
 font-weight: bold;
 padding: 0.25em;
 font-size: 0.8em;
@@ -276,7 +276,7 @@ margin-bottom: 2px;
 #menu
 {
 position: relative;
-background: #7F8400 url('images/menubg.gif') repeat-x top left;
+background: #4351cc url('images/menubg.gif') repeat-x top left;
 height: 3.5em;
 padding: 0em 1.0em 0em 1.0em;
 margin-bottom: 2px;
@@ -308,7 +308,7 @@ text-decoration: underline;
 
 #menu ul li a.active
 {
-background: #7F8400 url('images/menuactive.gif') repeat-x top left;
+background: #4351cc url('images/menuactive.gif') repeat-x top left;
 }
 
 #menubottom
